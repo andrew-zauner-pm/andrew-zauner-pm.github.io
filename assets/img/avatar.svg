@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="AZ monogram">
+  <rect width="160" height="160" rx="42" fill="#174a7c"/>
+  <circle cx="118" cy="42" r="18" fill="#c7822f" opacity="0.95"/>
+  <path d="M38 112L66 45h17l28 67H94l-6-15H60l-6 15H38zm27-29h18L74 59l-9 24z" fill="#ffffff"/>
+  <path d="M94 112v-13l31-39H96V45h50v13l-31 39h32v15H94z" fill="#ffffff" opacity="0.92"/>
+</svg>
