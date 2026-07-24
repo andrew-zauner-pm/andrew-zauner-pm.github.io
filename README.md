@@ -5,8 +5,8 @@ A lightweight, client-safe personal website scaffold for GitHub Pages. This repo
 ## What this includes
 
 - Static GitHub Pages-ready site
-- Homepage with hero, about, focus areas, selected work, writing, and contact sections
-- Generic project cards focused on analytics, data engineering, BI, automation, and documentation
+- Homepage with hero, about, work, thoughts/links, and contact sections
+- Generic project cards focused on analytics engineering, data engineering, AI workflows, and documentation
 - Responsive CSS with a professional consulting-style design
 - Small JavaScript enhancements for navigation, year rendering, and active section highlighting
 - GitHub Actions workflow for Pages deployment
@@ -40,8 +40,8 @@ http://localhost:8000
 
 Update these files first:
 
-- `index.html`: Main content, bio, links, selected work, and writing sections
-- `assets/css/styles.css`: Colors, spacing, typography, and layout
+- `index.html`: Main content, bio, work examples, thoughts/links, and contact sections
+- `assets/css/styles.css`: Dark theme colors, spacing, typography, and layout
 - `assets/js/main.js`: Small interactive behavior
 - `assets/img/avatar.svg`: Placeholder avatar/logo
 
@@ -50,7 +50,7 @@ Update these files first:
 - Replace `YOUR_GITHUB_USERNAME` in `index.html` and `README.md`
 - Replace placeholder email and LinkedIn links
 - Add real, non-confidential project summaries
-- Add blog posts or case-study pages under a future `/writing` folder
+- Add blog posts or case-study pages under a future `/thoughts` or `/writing` folder
 - Add a custom domain only if needed
 
 ## Safety note
